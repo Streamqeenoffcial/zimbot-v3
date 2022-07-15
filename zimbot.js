@@ -71,7 +71,7 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 limitawal = '100'
 botname = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵'
 wm = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵'
-global.reactmoji = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵'
+global.reactmoji = '🇱🇰'
 limitCount = setting.limit
 
 //read database
