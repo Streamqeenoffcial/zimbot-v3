@@ -257,8 +257,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['94762511600']
-global.bothelp = ['94762511600']
+global.botdev = ['94758663348']
+global.bothelp = ['94758663348']
 
 //function rpg
    const { 
@@ -1357,9 +1357,7 @@ if (isBan) throw mess.ban
   m.reply(`*Transaction successful ️*\n*your monay* : ${getMonay(m.sender)}\n*Your leftover Elephant* : ${getGajah(m.sender)}`)
   }, 2000) 
  } else
- if (args[0] === 'iron'){
- if (isBesi < anu) return m.reply('*Your iron is not enough for this transaction*')
- if (!args[1]) return m.reply(`Example : ${prefix + command} iron 2\n 1 iron = 15000 monay`)
+ if (args[0] === 'iron'){ if (!args[1]) return m.reply(`Example : ${prefix + command} iron 2\n 1 iron = 15000 monay`)
  kurangBesi(m.sender, anu)
  let monaynya = 16000 * anu
  addMonay(m.sender, monaynya)
