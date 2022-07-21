@@ -37,8 +37,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94762511600']
-global.premium = ['94762511600']
+global.owner = ['94758663348']
+global.premium = ['94758663348']
 global.botname = '𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯 𝘞𝘈 𝘣𝘰𝘵'
 global.ownername = '𝚆𝚊_𝚋𝚘𝚝 24/7'
 global.group1 = ''
