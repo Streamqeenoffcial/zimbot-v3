@@ -71,16 +71,16 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
-    bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    success: '*සාර්ථකව අවසන් විය!* ✓',
+        ban: '*සමාවන්න, කරුණාකර බෝට්ගේ හිමිකරු සම්බන්ධ කරගන්න!!*',
+    horny: '*NSFW අක්‍රිය කර ඇත කරුණාකර එය සක්‍රීය කරන ලෙස හිමිකරුගෙන් විමසන්න!!*',
+    admin: '*මෙය ඇඩ්මින් වරු සදහා පමණක් වේ!!*',
+    botAdmin: '*පළමුව මාහට ඇඩ්මින් තනතුර ලබා දෙන්න!!*',
+    owner: '*බෝට්ගේ හිමිකරු සදහා පමණක් වේ!!*',
+    group: '*කණ්ඩායමක බාවිතය සදහා පමණි!!*',
+    private: '*පුද්ගලික සංවාදවල බාවිතය සදහා පමණි!!*',
+    bot: '*මෙම විශේෂාංගය බෝට් සඳහා පමණි!!*',
+    wait: '*මදක් රැදී සිටින්න...ඔබගේ ඉල්ලීම සැකසෙමින් පවතී!!*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
