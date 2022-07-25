@@ -1483,7 +1483,7 @@ case 'restart': {
 break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 	    if (isBan) throw mess.ban
-                ZimBotInc.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/4e12bdfc0fbcbe7d14930.jpg' }, caption: `*Hi Chomie ${m.pushName}*\n\n *Thanks for your support we appreciate you we dont need your money, support us by subscribing to our youtube channel* *DRIPS OFC:*  ` }, { quoted: m })
+                ZimBotInc.sendMessage(m.chat, { image: { url: 'https://data.1freewallpapers.com/download/samantha-hot-1600x900.jpg' }, caption: `*Hi Chomie ${m.pushName}*\n\n*මේ සදහා බෝට්ගේ හිමිකරු සම්බන්ද කරගන්න!!* ` }, { quoted: m })
             }
             break            
             case 'chat': {
