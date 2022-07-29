@@ -313,7 +313,7 @@ ZimBotInc.sendMessage(anu.id, buttonMessage, {quoted:fgclink})
         ZimBotInc.sendMessage(jid, listMes, { quoted: quoted })
         }
 
-    /** Send Button 99 Message
+    /** Send Button 9 Message
      * 
      * @param {*} jid
      * @param {*} text
